@@ -3,10 +3,11 @@
 Koleksi project Tailwind CSS belajar.
 
 ## 📱 Advanced Portfolio
-![Advanced Portfolio](advanced-portfolio/advanced-portofolio.png)
+![Advanced Portfolio](advanced-portofolio/advanced-portofolio.png')
 
 ## 🛒 Basic Ecommerce
 ![Basic Ecommerce](basic-ecommerce/basic-ecommerce.png)
 
 ## 🎨 Basic Portfolio
-![Basic Portfolio](basic-portfolio/basic-portfolio.png)
+![Basic Portfolio](basic-fortofolio/basic-portofolio.png)
+ 
