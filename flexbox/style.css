@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+    list-style: none;
+}
+.container {
+    background-color: palegreen;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.menu {
+    display: flex;
+    width: 500px;
+    justify-content: space-evenly;
+}
+.container2 {
+    background-color: palegoldenrod;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.menu2 {
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}

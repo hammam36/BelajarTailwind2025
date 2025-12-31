@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: .5fr 3fr .5fr;
+    grid-template-areas: "header header""main aside""footer footer";
+}
+
+header {
+    border: 1px solid powderblue;
+    grid-area: header;
+}
+
+main {
+    border: 1px solid powderblue;
+    grid-area: main;
+}
+
+aside {
+    border: 1px solid powderblue;
+    grid-area: aside;
+}
+
+footer {
+    border: 1px solid powderblue;
+    grid-area: footer;
+}
